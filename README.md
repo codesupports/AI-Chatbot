@@ -7,6 +7,14 @@ This project allows users to have real-time conversations with an AI assistant p
 
 <img width="406" height="817" alt="image" src="https://github.com/user-attachments/assets/72f04e21-ae94-4237-88b8-def2e55edff3" />
 
+## Add API and Key through .env file
+
+VITE_GEMINI_API_KEY=enter key here
+
+VITE_GEMINI_API_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent
+
+
+
 ## Tech Stack 🛠️
 
 ⚛️ React.js
