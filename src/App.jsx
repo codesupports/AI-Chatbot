@@ -7,8 +7,8 @@ function App() {
 
   return (
     <>
-      <section className='bg-gray-800'>
-        Test Template
+      <section className='bg-blue-700'>
+        <h1 className='text-2xl'>Test Template</h1>
       </section>
     </>
   )
