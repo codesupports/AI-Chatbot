@@ -1,18 +1,59 @@
-# React + Vite
+# AI ChatBot (React + Vite + Gemini API)
+An interactive AI ChatBot web application built using React.js, Vite, and Google Gemini API.
+This project allows users to have real-time conversations with an AI assistant powered by Google’s generative AI model.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo
+👉 https://codesupports.github.io/AI-Chatbot/
 
-Currently, two official plugins are available:
+<img width="406" height="817" alt="image" src="https://github.com/user-attachments/assets/72f04e21-ae94-4237-88b8-def2e55edff3" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack 🛠️
 
-## React Compiler
+⚛️ React.js
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+⚡ Vite
 
-Note: This will impact Vite dev & build performances.
+🎨 CSS3 / Tailwind (if used)
 
-## Expanding the ESLint configuration
+🤖 Google Gemini API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌐 GitHub Pages (Deployment)
+
+## Features✨
+
+💬 Real-time AI chat responses
+
+⚡ Fast and optimized Vite setup
+
+📱 Responsive UI (Mobile + Desktop)
+
+🔐 Secure API integration using environment variables
+
+🧠 Powered by Google Gemini AI
+
+🎯 Simple and clean chat interface
+
+## 📁 Project Structure
+src/
+
+ ├── components/ 
+ 
+ ├── utils/ 
+ 
+ ├── assets/ 
+ 
+ ├── App.jsx 
+ 
+ ├── main.jsx 
+
+## ⚠️Important Note
+API key is handled using .env
+
+Do NOT expose API key in production code
+
+GitHub Pages is a static deployment (no backend)
+
+## 👨‍💻 Author
+#### Sr. Frontend Developer: Raj Kumar Maheshwari
+
+💼 React.js Developer | UI Enthusiast | AI Projects Learner
